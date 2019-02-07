@@ -1,0 +1,5 @@
+07-02-2019 00:01:31.126 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 3352 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:01:31.164 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:01:32.327 [main] INFO  com.lankydan.Application.logStarted - Started Application in 2.049 seconds (JVM running for 3.129)
+07-02-2019 00:03:36.750 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 4412 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:03:36.760 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev

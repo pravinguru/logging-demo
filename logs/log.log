@@ -1,0 +1,63 @@
+07-02-2019 00:06:40.258 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 5776 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:06:40.258 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:06:40.947 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.834 seconds (JVM running for 2.75)
+07-02-2019 00:06:40.948 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:06:40.948 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:06:40.949 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:06:40.949 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:11:14.092 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 6624 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:11:14.096 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:11:14.808 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.757 seconds (JVM running for 2.561)
+07-02-2019 00:11:14.809 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:11:14.810 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:11:14.810 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:11:14.810 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:13:03.683 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 5780 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:13:03.688 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:13:05.231 [main] INFO  com.lankydan.Application.logStarted - Started Application in 2.244 seconds (JVM running for 3.053)
+07-02-2019 00:13:05.241 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:13:05.241 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:13:05.241 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:13:05.241 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:14:10.135 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 6996 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:14:10.140 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:14:11.341 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.97 seconds (JVM running for 2.653)
+07-02-2019 00:14:11.341 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:14:11.341 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:14:11.351 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:14:11.351 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:14:57.902 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 5164 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:14:57.906 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:14:59.089 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.966 seconds (JVM running for 2.761)
+07-02-2019 00:14:59.091 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:14:59.092 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:14:59.092 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:14:59.092 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:17:21.652 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 5516 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:17:21.657 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:17:22.556 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.863 seconds (JVM running for 2.676)
+07-02-2019 00:17:22.558 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:17:22.558 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:17:22.558 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:17:22.558 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:35:10.981 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 3844 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:35:10.986 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:35:12.134 [main] INFO  com.lankydan.Application.logStarted - Started Application in 2.047 seconds (JVM running for 2.971)
+07-02-2019 00:35:12.136 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:35:12.136 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:35:12.136 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:35:12.136 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:36:07.202 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 1540 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:36:07.207 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:36:08.318 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.904 seconds (JVM running for 2.681)
+07-02-2019 00:36:08.318 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:36:08.318 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:36:08.318 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:36:08.318 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
+07-02-2019 00:42:43.831 [main] INFO  com.lankydan.Application.logStarting - Starting Application on SERVER-PC with PID 3144 (C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master\target\classes started by ITBits in C:\Users\ITBits\Desktop\logback-with-springboot-config-master\logback-with-springboot-config-master)
+07-02-2019 00:42:43.852 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+07-02-2019 00:42:45.349 [main] INFO  com.lankydan.Application.logStarted - Started Application in 2.229 seconds (JVM running for 2.841)
+07-02-2019 00:42:45.351 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - I am here for debugging - value
+07-02-2019 00:42:45.351 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - I am here for Info - value
+07-02-2019 00:42:45.353 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - I am here for warning - value
+07-02-2019 00:42:45.353 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - I am here for error  - value
